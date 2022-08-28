@@ -2,8 +2,8 @@
     Sou estudante de Desenvolvimento Web na ETEOT.
 <div>
   <a href="https://github.com/BorgesDevWeb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BorgesDevWeb&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorgesDevWeb&layout=compact&langs_count=7&theme=darck"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BorgesDevWeb&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorgesDevWeb&layout=compact&langs_count=7&theme=darck"/>
 </div>
 
 ##
